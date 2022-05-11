@@ -1,0 +1,2 @@
+C:/Users/15743/source/repos/NeuralNetworks/NeuralNetworks/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/15743/source/repos/NeuralNetworks/NeuralNetworks/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
